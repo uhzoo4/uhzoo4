@@ -41,7 +41,7 @@ of code at a time. Big dreams, small GitHub — for now. 😄
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uhzoo4&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uhzoo4&show_icons=true&theme=tokyonight&hide_border=true" alt="uhzoo4's GitHub stats"/>
 </p>
 
 ---
