@@ -4,78 +4,157 @@
   Building systems, interfaces, and ideas — one project at a time.
 </p>---
 
-🧠 About Me
+<h1 align="center">Hey, I'm Hansharaj 👋</h1>
 
-I'm Hansharaj — a Class 12 student exploring software, design, and AI through real projects.
+<p align="center">
+  17 • Odisha, India • Student • Product Builder
+</p>
 
-I learn by building.
-
-What started as curiosity turned into late-night debugging sessions, experimental ideas, and a growing obsession with understanding how systems work beneath the surface.
-
-Still early in the journey — but moving forward every day.
-
----
-
-🚀 Current Focus
-
-- 🌐 Learning Web Development — HTML, CSS & JavaScript
-- ⚡ Exploring Rust, Tauri & Local AI systems
-- 🧩 Building developer-focused and cinematic UI projects
-- 📚 Growing through real projects instead of tutorials alone
+<p align="center">
+  Building cinematic interfaces, AI systems, and interactive experiences.
+</p>
 
 ---
 
-🛠️ Tech & Tools
+## About
 
-<p>"HTML" (https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-"CSS" (https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-"Rust" (https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-"Tauri" (https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-"Figma" (https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+I'm Hansharaj, a Class 12 science student from Odisha.
 
-</p>AI Workflow
+I build projects to understand how products work — not just how code works.
 
-- 🤖 Cursor AI
-- 🚀 Antigravity AI
-- 🧠 Claude & ChatGPT
-- 🦙 Ollama (Local AI)
+My interests sit somewhere between software engineering, interface design, AI systems, and creative development. Most of my projects begin with a question, an idea, or a visual concept and slowly evolve into products, experiments, or long-term systems.
+
+Currently exploring local AI, interactive experiences, system design, and developer tooling.
 
 ---
 
-🔥 Current Projects
+## Current Interests
 
-🎵 AFTER DARK
-
-A cinematic music experience and immersive interface experiment.
-
-🕷️ Spider-Verse Dimensional Interface
-
-An experimental cinematic UI project inspired by layered dimensional aesthetics.
-
-🧠 Nexus (WIP)
-
-A hybrid-local AI orchestration desktop application exploring local AI, routing systems, and developer tooling.
+* Artificial Intelligence
+* Product Engineering
+* Interactive Experiences
+* Local-First Software
+* System Architecture
+* Creative Development
 
 ---
 
-📈 GitHub Stats
+## Stack
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* Vite
+* Tailwind CSS
+
+**Animation & Interaction**
+
+* GSAP
+* Lenis
+* Framer Motion
+
+**3D & Graphics**
+
+* Three.js
+* React Three Fiber
+
+**Desktop**
+
+* Rust
+* Tauri
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Figma
+* Cursor
+
+---
+
+## AI Workflow
+
+I use AI as part of my development workflow for:
+
+* Research and architecture
+* System design
+* Documentation
+* Rapid prototyping
+* Code reviews
+* Debugging and refinement
+
+Tools I frequently work with:
+
+* ChatGPT
+* Claude
+* Cursor
+* Ollama
+* Gemini
+
+---
+
+## Projects
+
+### AFTER DARK
+
+A cinematic music experience inspired by editorial design, album aesthetics, and immersive scrolling interactions.
+
+### Nexus
+
+A local-first AI desktop assistant exploring model routing, overlays, and developer workflows.
+
+### VulnSentry AI
+
+An educational cybersecurity project combining safe scanning techniques with AI-assisted vulnerability analysis.
+
+### Neural Lab
+
+An interactive neural network visualization playground focused on understanding machine learning concepts visually.
+
+### Midnight Fuji
+
+A scroll-driven atmospheric experience inspired by Japanese landscapes and cinematic storytelling.
+
+### Project Sovereign
+
+A long-term experimental project combining interactive combat systems, philosophy, and immersive web experiences.
+
+---
+
+## Currently Exploring
+
+* Local AI systems
+* Rust ecosystem
+* Tauri applications
+* AI orchestration
+* System design
+* Interactive web experiences
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=uhzoo4&theme=tokyonight&hide_border=true" />
-</p>---
+</p>
 
-📫 Connect With Me
+---
+
+## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/hansharaj-das-586640408/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    LinkedIn
   </a>
-</p>---
+</p>
+
+---
 
 <p align="center">
-  <i>"Learning the system by building inside it."</i>
+  Learning by building.
 </p>
