@@ -70,35 +70,7 @@ AI is part of my development workflow for:
 
 Tools I frequently use:
 
-ChatGPT • Claude • Cursor • Ollama • Gemini
-
----
-
-## 🔥 Projects
-
-### AFTER DARK
-
-A cinematic music experience inspired by editorial design, albums, and immersive scrolling.
-
-### Nexus
-
-A local-first AI desktop assistant exploring overlays, routing systems, and developer workflows.
-
-### VulnSentry AI
-
-An educational cybersecurity project combining safe scanning with AI-assisted analysis.
-
-### Neural Lab
-
-An interactive neural network visualization playground.
-
-### Midnight Fuji
-
-A scroll-driven atmospheric experience inspired by Japanese landscapes.
-
-### Project Sovereign
-
-A long-term immersive project combining philosophy, interaction, and cinematic design.
+ChatGPT • Claude • Cursor • Ollama • Gemini • Hugging Face 
 
 ---
 
