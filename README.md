@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm Hansharaj, a 17-year-old student from Odisha exploring software, design, AI, and interactive experiences through real projects.
+I'm Hansharaj, a 17-year-old student from India exploring software, design, AI, and interactive experiences through real projects.
 
 Most of what I know didn't come from courses or tutorials. It came from curiosity, broken code, late-night debugging sessions, and asking too many questions.
 
