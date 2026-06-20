@@ -1,151 +1,127 @@
-<div align="center">
+<h1 align="center">Hey, I'm Hansharaj 👋</h1>
 
-# H A N S H A R A J
+<p align="center">
+  Class 12 Student • Odisha, India • Builder
+</p>
 
-```text
-██   ██  █████  ███    ██ ███████ ██   ██  █████  ██████   █████  ██
-██   ██ ██   ██ ████   ██ ██      ██   ██ ██   ██ ██   ██ ██   ██ ██
-███████ ███████ ██ ██  ██ ███████ ███████ ███████ ██████  ███████ ██
-██   ██ ██   ██ ██  ██ ██      ██ ██   ██ ██   ██ ██   ██ ██   ██ ██
-██   ██ ██   ██ ██   ████ ███████ ██   ██ ██   ██ ██   ██ ██   ██ ██
-```
-
-**17 • Odisha, India**
-
-*Building cinematic interfaces, AI systems, and interactive experiences.*
-
-</div>
+<p align="center">
+  Learning by building.
+</p>
 
 ---
 
-## SYSTEM STATUS
+## 🧠 About Me
 
-```text
-NAME        : HANSHARAJ
-AGE         : 17
-HEIGHT      : 5'11"
-LOCATION    : ODISHA, INDIA
+I'm Hansharaj, a 17-year-old student from Odisha exploring software, design, AI, and interactive experiences through real projects.
 
-ROLE        : STUDENT
-ACTUAL JOB  : BUILDING THINGS
+Most of what I know didn't come from courses or tutorials. It came from curiosity, broken code, late-night debugging sessions, and asking too many questions.
 
-STATUS      : ONLINE
-```
+I enjoy understanding how things work beneath the surface — whether it's an interface, a system, an animation, or an AI model.
+
+Still early in the journey, but building every day.
 
 ---
 
-## WHO AM I?
+## 🚀 Currently Exploring
 
-I build projects to understand how systems work.
-
-Most of my work sits somewhere between:
-
+* Artificial Intelligence
 * Product Engineering
-* AI Systems
 * Creative Development
 * Interactive Experiences
+* Local AI Systems
 * System Design
 
-I am interested in building software that feels alive.
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+HTML • CSS • JavaScript • TypeScript • React • Vite • Tailwind
+
+**Animation**
+
+GSAP • Lenis • Framer Motion
+
+**3D**
+
+Three.js • React Three Fiber
+
+**Desktop**
+
+Rust • Tauri
+
+**Tools**
+
+Git • GitHub • VS Code • Cursor • Figma
 
 ---
 
-## CURRENT STACK
+## 🤖 AI Workflow
 
-```text
-FRONTEND
-├── React
-├── TypeScript
-├── Vite
-├── Tailwind
-└── JavaScript
+AI is part of my development workflow for:
 
-ANIMATION
-├── GSAP
-├── Lenis
-└── Framer Motion
+* Research
+* Architecture
+* Prototyping
+* Debugging
+* Documentation
+* Iteration
 
-3D
-├── Three.js
-└── React Three Fiber
+Tools I frequently use:
 
-DESKTOP
-├── Rust
-└── Tauri
-
-TOOLS
-├── Git
-├── VS Code
-├── Cursor
-└── Figma
-```
+ChatGPT • Claude • Cursor • Ollama • Gemini
 
 ---
 
-## ACTIVE PROJECTS
+## 🔥 Projects
 
 ### AFTER DARK
 
-Cinematic music experience inspired by editorial design, albums, and immersive scrolling.
+A cinematic music experience inspired by editorial design, albums, and immersive scrolling.
 
-### NEXUS
+### Nexus
 
-Local-first AI desktop assistant exploring routing systems and developer workflows.
+A local-first AI desktop assistant exploring overlays, routing systems, and developer workflows.
 
-### VULNSENTRY AI
+### VulnSentry AI
 
-Educational cybersecurity platform combining safe scanning with AI analysis.
+An educational cybersecurity project combining safe scanning with AI-assisted analysis.
 
-### NEURAL LAB
+### Neural Lab
 
-Interactive neural network playground and visualization environment.
+An interactive neural network visualization playground.
 
-### PROJECT SOVEREIGN
+### Midnight Fuji
 
-Long-term interactive experience combining philosophy, combat systems, and immersive design.
+A scroll-driven atmospheric experience inspired by Japanese landscapes.
 
----
+### Project Sovereign
 
-## AI WORKFLOW
-
-```text
-RESEARCH
-    ↓
-ARCHITECTURE
-    ↓
-SYSTEM DESIGN
-    ↓
-PROTOTYPING
-    ↓
-IMPLEMENTATION
-    ↓
-REFINEMENT
-```
-
-Models and tools I frequently work with:
-
-* ChatGPT
-* Claude
-* Gemini
-* Ollama
-* Cursor
+A long-term immersive project combining philosophy, interaction, and cinematic design.
 
 ---
 
-## CURRENT OBJECTIVE
+## 📈 GitHub Activity
 
-```text
-[ ] Graduate school.
-[ ] Master systems.
-[ ] Build meaningful products.
-[ ] Reach global engineering standards.
-[ ] Keep shipping.
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=uhzoo4&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-> Learning by building.
+<p>
+  <a href="https://www.linkedin.com/in/hansharaj-das-586640408/">
+    LinkedIn
+  </a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <i>
+  Building systems, interfaces, and ideas — one project at a time.
+  </i>
+</p>
