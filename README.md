@@ -1,160 +1,151 @@
-<h1 align="center">Hey, I'm Hansharaj 👋</h1><p align="center">
-  🎓 Class 12 · Bhubaneswar, Odisha · Student Builder · Learning by Building
-</p><p align="center">
-  Building systems, interfaces, and ideas — one project at a time.
-</p>---
+<div align="center">
 
-<h1 align="center">Hey, I'm Hansharaj 👋</h1>
+# H A N S H A R A J
 
-<p align="center">
-  17 • Odisha, India • Student • Product Builder
-</p>
+```text
+██   ██  █████  ███    ██ ███████ ██   ██  █████  ██████   █████  ██
+██   ██ ██   ██ ████   ██ ██      ██   ██ ██   ██ ██   ██ ██   ██ ██
+███████ ███████ ██ ██  ██ ███████ ███████ ███████ ██████  ███████ ██
+██   ██ ██   ██ ██  ██ ██      ██ ██   ██ ██   ██ ██   ██ ██   ██ ██
+██   ██ ██   ██ ██   ████ ███████ ██   ██ ██   ██ ██   ██ ██   ██ ██
+```
 
-<p align="center">
-  Building cinematic interfaces, AI systems, and interactive experiences.
-</p>
+**17 • Odisha, India**
 
----
+*Building cinematic interfaces, AI systems, and interactive experiences.*
 
-## About
-
-I'm Hansharaj, a Class 12 science student from Odisha.
-
-I build projects to understand how products work — not just how code works.
-
-My interests sit somewhere between software engineering, interface design, AI systems, and creative development. Most of my projects begin with a question, an idea, or a visual concept and slowly evolve into products, experiments, or long-term systems.
-
-Currently exploring local AI, interactive experiences, system design, and developer tooling.
+</div>
 
 ---
 
-## Current Interests
+## SYSTEM STATUS
 
-* Artificial Intelligence
+```text
+NAME        : HANSHARAJ
+AGE         : 17
+HEIGHT      : 5'11"
+LOCATION    : ODISHA, INDIA
+
+ROLE        : STUDENT
+ACTUAL JOB  : BUILDING THINGS
+
+STATUS      : ONLINE
+```
+
+---
+
+## WHO AM I?
+
+I build projects to understand how systems work.
+
+Most of my work sits somewhere between:
+
 * Product Engineering
-* Interactive Experiences
-* Local-First Software
-* System Architecture
+* AI Systems
 * Creative Development
+* Interactive Experiences
+* System Design
+
+I am interested in building software that feels alive.
 
 ---
 
-## Stack
+## CURRENT STACK
 
-**Frontend**
+```text
+FRONTEND
+├── React
+├── TypeScript
+├── Vite
+├── Tailwind
+└── JavaScript
 
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* React
-* Vite
-* Tailwind CSS
+ANIMATION
+├── GSAP
+├── Lenis
+└── Framer Motion
 
-**Animation & Interaction**
+3D
+├── Three.js
+└── React Three Fiber
 
-* GSAP
-* Lenis
-* Framer Motion
+DESKTOP
+├── Rust
+└── Tauri
 
-**3D & Graphics**
-
-* Three.js
-* React Three Fiber
-
-**Desktop**
-
-* Rust
-* Tauri
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Figma
-* Cursor
+TOOLS
+├── Git
+├── VS Code
+├── Cursor
+└── Figma
+```
 
 ---
 
-## AI Workflow
-
-I use AI as part of my development workflow for:
-
-* Research and architecture
-* System design
-* Documentation
-* Rapid prototyping
-* Code reviews
-* Debugging and refinement
-
-Tools I frequently work with:
-
-* ChatGPT
-* Claude
-* Cursor
-* Ollama
-* Gemini
-
----
-
-## Projects
+## ACTIVE PROJECTS
 
 ### AFTER DARK
 
-A cinematic music experience inspired by editorial design, album aesthetics, and immersive scrolling interactions.
+Cinematic music experience inspired by editorial design, albums, and immersive scrolling.
 
-### Nexus
+### NEXUS
 
-A local-first AI desktop assistant exploring model routing, overlays, and developer workflows.
+Local-first AI desktop assistant exploring routing systems and developer workflows.
 
-### VulnSentry AI
+### VULNSENTRY AI
 
-An educational cybersecurity project combining safe scanning techniques with AI-assisted vulnerability analysis.
+Educational cybersecurity platform combining safe scanning with AI analysis.
 
-### Neural Lab
+### NEURAL LAB
 
-An interactive neural network visualization playground focused on understanding machine learning concepts visually.
+Interactive neural network playground and visualization environment.
 
-### Midnight Fuji
+### PROJECT SOVEREIGN
 
-A scroll-driven atmospheric experience inspired by Japanese landscapes and cinematic storytelling.
-
-### Project Sovereign
-
-A long-term experimental project combining interactive combat systems, philosophy, and immersive web experiences.
+Long-term interactive experience combining philosophy, combat systems, and immersive design.
 
 ---
 
-## Currently Exploring
+## AI WORKFLOW
 
-* Local AI systems
-* Rust ecosystem
-* Tauri applications
-* AI orchestration
-* System design
-* Interactive web experiences
+```text
+RESEARCH
+    ↓
+ARCHITECTURE
+    ↓
+SYSTEM DESIGN
+    ↓
+PROTOTYPING
+    ↓
+IMPLEMENTATION
+    ↓
+REFINEMENT
+```
 
----
+Models and tools I frequently work with:
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=uhzoo4&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/hansharaj-das-586640408/">
-    LinkedIn
-  </a>
-</p>
+* ChatGPT
+* Claude
+* Gemini
+* Ollama
+* Cursor
 
 ---
 
-<p align="center">
-  Learning by building.
-</p>
+## CURRENT OBJECTIVE
+
+```text
+[ ] Graduate school.
+[ ] Master systems.
+[ ] Build meaningful products.
+[ ] Reach global engineering standards.
+[ ] Keep shipping.
+```
+
+---
+
+<div align="center">
+
+> Learning by building.
+
+</div>
